@@ -1,0 +1,573 @@
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 7'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 4'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 2'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 0, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 3'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 1'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 6'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 5'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 8'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 9'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 10'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 11'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 12'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 13'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 15'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 14'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 16'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 17'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 18'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 19'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 20'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 21'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 22'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 23'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 24'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 25'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 26'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 27'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 28'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 29'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 30'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 31'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 32'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 33'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 34'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 35'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 36'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 37'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 38'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 39'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 40'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 41'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 42'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 43'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 44'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 45'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 46'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 47'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 48'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 49'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 50'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 51'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 52'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 53'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 54'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 55'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 56'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 57'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 58'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 60'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 59'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 61'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 62'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 63'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 64'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 65'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 66'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 67'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 69'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 68'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 70'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 71'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 72'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 73'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 74'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 75'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 76'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 77'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 78'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 80'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 79'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 81'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 82'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 83'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 84'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 85'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 86'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 87'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 88'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 89'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 90'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 91'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 92'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 93'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 94'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 95'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 96'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 97'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 98'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 99'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 100'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 101'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 102'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 103'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 104'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 105'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 106'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 107'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 108'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 109'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 110'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 111'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 112'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 113'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 114'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 115'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 116'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 117'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 118'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 119'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 120'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 121'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 122'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 123'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 124'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 125'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 126'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 127'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 128'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 129'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 130'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 131'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 132'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 133'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 134'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 135'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 136'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 137'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 138'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 139'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 140'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 141'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 142'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 143'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 144'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 145'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 146'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 147'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 148'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 149'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 150'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 151'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 152'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 153'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 154'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 155'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 156'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 157'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 158'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 159'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 160'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 161'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 162'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 163'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 164'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 165'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 166'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 167'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 168'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 170'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 169'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 171'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 172'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 173'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 174'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 176'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 177'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 175'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 178'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 179'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 180'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 181'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 182'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 183'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 184'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 185'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 186'000'000, num points: 1'000'000
+INFO(chunker_countsort_laszip.cpp:176): counting BalticSee_las.las, first point: 187'000'000, num points: 543'263
+INFO(indexer.cpp:1656): start indexing chunk r00
+filesize: 4'967'970
+min: -46.577799999999911, -38.535399999999981, -1.9243000000000023
+max: -19.710149999999913, -11.667749999999984, 24.943349999999995
+INFO(indexer.cpp:1656): start indexing chunk r04
+filesize: 41'797'020
+min: -19.710149999999913, -38.535399999999981, -1.9243000000000023
+max: 7.1575000000000841, -11.667749999999984, 24.943349999999995
+INFO(indexer.cpp:1656): start indexing chunk r02
+filesize: 26'571'780
+min: -46.577799999999911, -11.667749999999984, -1.9243000000000023
+max: -19.710149999999913, 15.199900000000014, 24.943349999999995
+INFO(indexer.cpp:1656): start indexing chunk r060
+filesize: 85'650'300
+min: -19.710149999999913, -11.667749999999984, -1.9243000000000023
+max: -6.2763249999999147, 1.7660750000000149, 11.509524999999996
+INFO(indexer.cpp:1656): start indexing chunk r0620
+filesize: 66'609'900
+min: -19.710149999999913, 1.7660750000000149, -1.9243000000000023
+max: -12.993237499999914, 8.4829875000000143, 4.7926124999999971
+INFO(indexer.cpp:1656): start indexing chunk r061
+filesize: 954'240
+min: -19.710149999999913, -11.667749999999984, 11.509524999999996
+max: -6.2763249999999147, 1.7660750000000149, 24.943349999999995
+INFO(indexer.cpp:1656): start indexing chunk r0622
+filesize: 50'287'710
+min: -19.710149999999913, 8.4829875000000143, -1.9243000000000023
+max: -12.993237499999914, 15.199900000000014, 4.7926124999999971
+INFO(indexer.cpp:1656): start indexing chunk r0621
+filesize: 1'817'370
+min: -19.710149999999913, 1.7660750000000149, 4.7926124999999971
+max: -12.993237499999914, 8.4829875000000143, 11.509524999999996
+INFO(indexer.cpp:1656): start indexing chunk r0623
+filesize: 7'470
+min: -19.710149999999913, 8.4829875000000143, 4.7926124999999971
+max: -12.993237499999914, 15.199900000000014, 11.509524999999996
+INFO(indexer.cpp:1656): start indexing chunk r0624
+filesize: 169'017'960
+min: -12.993237499999914, 1.7660750000000149, -1.9243000000000023
+max: -6.2763249999999147, 8.4829875000000143, 4.7926124999999971
+INFO(indexer.cpp:1656): start indexing chunk r0626
+filesize: 161'483'250
+min: -12.993237499999914, 8.4829875000000143, -1.9243000000000023
+max: -6.2763249999999147, 15.199900000000014, 4.7926124999999971
+INFO(indexer.cpp:1656): start indexing chunk r063
+filesize: 61'200
+min: -19.710149999999913, 1.7660750000000149, 11.509524999999996
+max: -6.2763249999999147, 15.199900000000014, 24.943349999999995
+INFO(indexer.cpp:1699): finished indexing chunk r0623
+INFO(indexer.cpp:1699): finished indexing chunk r063
+INFO(indexer.cpp:1656): start indexing chunk r064
+filesize: 231'658'110
+min: -6.2763249999999147, -11.667749999999984, -1.9243000000000023
+max: 7.1575000000000841, 1.7660750000000149, 11.509524999999996
+INFO(indexer.cpp:1656): start indexing chunk r0660
+filesize: 162'814'410
+min: -6.2763249999999147, 1.7660750000000149, -1.9243000000000023
+max: 0.44058750000008473, 8.4829875000000143, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r061
+INFO(indexer.cpp:1656): start indexing chunk r0662
+filesize: 174'680'760
+min: -6.2763249999999147, 8.4829875000000143, -1.9243000000000023
+max: 0.44058750000008473, 15.199900000000014, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r0621
+INFO(indexer.cpp:1656): start indexing chunk r0664
+filesize: 165'769'740
+min: 0.44058750000008473, 1.7660750000000149, -1.9243000000000023
+max: 7.1575000000000841, 8.4829875000000143, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r00
+INFO(indexer.cpp:1656): start indexing chunk r0666
+filesize: 168'690'090
+min: 0.44058750000008473, 8.4829875000000143, -1.9243000000000023
+max: 7.1575000000000841, 15.199900000000014, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r02
+INFO(indexer.cpp:1656): start indexing chunk r20
+filesize: 4'188'990
+min: -46.577799999999911, 15.199900000000014, -1.9243000000000023
+max: -19.710149999999913, 42.067550000000011, 24.943349999999995
+INFO(indexer.cpp:1699): finished indexing chunk r20
+INFO(indexer.cpp:1656): start indexing chunk r22
+filesize: 18'600
+min: -46.577799999999911, 42.067550000000011, -1.9243000000000023
+max: -19.710149999999913, 68.935200000000009, 24.943349999999995
+INFO(indexer.cpp:1699): finished indexing chunk r22
+INFO(indexer.cpp:1656): start indexing chunk r2400
+filesize: 47'201'310
+min: -19.710149999999913, 15.199900000000014, -1.9243000000000023
+max: -12.993237499999914, 21.916812500000013, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r04
+INFO(indexer.cpp:1656): start indexing chunk r2401
+filesize: 98'580
+min: -19.710149999999913, 15.199900000000014, 4.7926124999999971
+max: -12.993237499999914, 21.916812500000013, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r2401
+INFO(indexer.cpp:1656): start indexing chunk r2402
+filesize: 40'396'890
+min: -19.710149999999913, 21.916812500000013, -1.9243000000000023
+max: -12.993237499999914, 28.633725000000013, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r0622
+INFO(indexer.cpp:1656): start indexing chunk r2403
+filesize: 8'880
+min: -19.710149999999913, 21.916812500000013, 4.7926124999999971
+max: -12.993237499999914, 28.633725000000013, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r2403
+INFO(indexer.cpp:1656): start indexing chunk r2404
+filesize: 188'071'830
+min: -12.993237499999914, 15.199900000000014, -1.9243000000000023
+max: -6.2763249999999147, 21.916812500000013, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r2402
+INFO(indexer.cpp:1656): start indexing chunk r2406
+filesize: 230'489'400
+min: -12.993237499999914, 21.916812500000013, -1.9243000000000023
+max: -6.2763249999999147, 28.633725000000013, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r2400
+INFO(indexer.cpp:1656): start indexing chunk r242
+filesize: 155'073'870
+min: -19.710149999999913, 28.633725000000013, -1.9243000000000023
+max: -6.2763249999999147, 42.067550000000011, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r0620
+INFO(indexer.cpp:1656): start indexing chunk r2440
+filesize: 159'353'070
+min: -6.2763249999999147, 15.199900000000014, -1.9243000000000023
+max: 0.44058750000008473, 21.916812500000013, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r060
+INFO(indexer.cpp:1656): start indexing chunk r2441
+filesize: 727'290
+min: -6.2763249999999147, 15.199900000000014, 4.7926124999999971
+max: 0.44058750000008473, 21.916812500000013, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r2441
+INFO(indexer.cpp:1656): start indexing chunk r2442
+filesize: 226'429'500
+min: -6.2763249999999147, 21.916812500000013, -1.9243000000000023
+max: 0.44058750000008473, 28.633725000000013, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r0626
+INFO(indexer.cpp:1656): start indexing chunk r2443
+filesize: 3'335'490
+min: -6.2763249999999147, 21.916812500000013, 4.7926124999999971
+max: 0.44058750000008473, 28.633725000000013, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r2443
+INFO(indexer.cpp:1656): start indexing chunk r2444
+filesize: 170'412'630
+min: 0.44058750000008473, 15.199900000000014, -1.9243000000000023
+max: 7.1575000000000841, 21.916812500000013, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r0660
+INFO(indexer.cpp:1656): start indexing chunk r2445
+filesize: 3'132'900
+min: 0.44058750000008473, 15.199900000000014, 4.7926124999999971
+max: 7.1575000000000841, 21.916812500000013, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r2445
+INFO(indexer.cpp:1656): start indexing chunk r2446
+filesize: 161'919'120
+min: 0.44058750000008473, 21.916812500000013, -1.9243000000000023
+max: 7.1575000000000841, 28.633725000000013, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r0664
+INFO(indexer.cpp:1699): finished indexing chunk r0666
+INFO(indexer.cpp:1699): finished indexing chunk r0662
+INFO(indexer.cpp:1656): start indexing chunk r2447
+filesize: 3'246'240
+min: 0.44058750000008473, 21.916812500000013, 4.7926124999999971
+max: 7.1575000000000841, 28.633725000000013, 11.509524999999996
+INFO(indexer.cpp:1656): start indexing chunk r246
+filesize: 170'817'810
+min: -6.2763249999999147, 28.633725000000013, -1.9243000000000023
+max: 7.1575000000000841, 42.067550000000011, 11.509524999999996
+INFO(indexer.cpp:1656): start indexing chunk r26
+filesize: 11'895'750
+min: -19.710149999999913, 42.067550000000011, -1.9243000000000023
+max: 7.1575000000000841, 68.935200000000009, 24.943349999999995
+INFO(indexer.cpp:1699): finished indexing chunk r2447
+INFO(indexer.cpp:1656): start indexing chunk r40
+filesize: 31'933'170
+min: 7.1575000000000841, -38.535399999999981, -1.9243000000000023
+max: 34.025150000000082, -11.667749999999984, 24.943349999999995
+INFO(indexer.cpp:1699): finished indexing chunk r0624
+INFO(indexer.cpp:1656): start indexing chunk r4200
+filesize: 34'178'910
+min: 7.1575000000000841, -11.667749999999984, -1.9243000000000023
+max: 13.874412500000084, -4.9508374999999845, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r26
+INFO(indexer.cpp:1656): start indexing chunk r4201
+filesize: 270
+min: 7.1575000000000841, -11.667749999999984, 4.7926124999999971
+max: 13.874412500000084, -4.9508374999999845, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r4201
+INFO(indexer.cpp:1656): start indexing chunk r4202
+filesize: 135'850'050
+min: 7.1575000000000841, -4.9508374999999845, -1.9243000000000023
+max: 13.874412500000084, 1.7660750000000149, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r40
+INFO(indexer.cpp:1656): start indexing chunk r4203
+filesize: 4'380
+min: 7.1575000000000841, -4.9508374999999845, 4.7926124999999971
+max: 13.874412500000084, 1.7660750000000149, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r4203
+INFO(indexer.cpp:1656): start indexing chunk r4204
+filesize: 27'153'360
+min: 13.874412500000084, -11.667749999999984, -1.9243000000000023
+max: 20.591325000000083, -4.9508374999999845, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r242
+INFO(indexer.cpp:1656): start indexing chunk r4206
+filesize: 144'359'880
+min: 13.874412500000084, -4.9508374999999845, -1.9243000000000023
+max: 20.591325000000083, 1.7660750000000149, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r2440
+INFO(indexer.cpp:1656): start indexing chunk r4207
+filesize: 1'800
+min: 13.874412500000084, -4.9508374999999845, 4.7926124999999971
+max: 20.591325000000083, 1.7660750000000149, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r4207
+INFO(indexer.cpp:1656): start indexing chunk r4220
+filesize: 176'840'340
+min: 7.1575000000000841, 1.7660750000000149, -1.9243000000000023
+max: 13.874412500000084, 8.4829875000000143, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r4200
+INFO(indexer.cpp:1656): start indexing chunk r4221
+filesize: 4'860
+min: 7.1575000000000841, 1.7660750000000149, 4.7926124999999971
+max: 13.874412500000084, 8.4829875000000143, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r4221
+INFO(indexer.cpp:1656): start indexing chunk r4222
+filesize: 166'935'120
+min: 7.1575000000000841, 8.4829875000000143, -1.9243000000000023
+max: 13.874412500000084, 15.199900000000014, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r4204
+INFO(indexer.cpp:1656): start indexing chunk r4223
+filesize: 30
+min: 7.1575000000000841, 8.4829875000000143, 4.7926124999999971
+max: 13.874412500000084, 15.199900000000014, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r4223
+INFO(indexer.cpp:1656): start indexing chunk r4224
+filesize: 164'282'700
+min: 13.874412500000084, 1.7660750000000149, -1.9243000000000023
+max: 20.591325000000083, 8.4829875000000143, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r064
+INFO(indexer.cpp:1656): start indexing chunk r4225
+filesize: 387'210
+min: 13.874412500000084, 1.7660750000000149, 4.7926124999999971
+max: 20.591325000000083, 8.4829875000000143, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r4225
+INFO(indexer.cpp:1656): start indexing chunk r4226
+filesize: 149'914'410
+min: 13.874412500000084, 8.4829875000000143, -1.9243000000000023
+max: 20.591325000000083, 15.199900000000014, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r2404
+INFO(indexer.cpp:1656): start indexing chunk r4227
+filesize: 1'270'050
+min: 13.874412500000084, 8.4829875000000143, 4.7926124999999971
+max: 20.591325000000083, 15.199900000000014, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r4227
+INFO(indexer.cpp:1656): start indexing chunk r424
+filesize: 83'715'330
+min: 20.591325000000083, -11.667749999999984, -1.9243000000000023
+max: 34.025150000000082, 1.7660750000000149, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r4202
+INFO(indexer.cpp:1656): start indexing chunk r425
+filesize: 55'350
+min: 20.591325000000083, -11.667749999999984, 11.509524999999996
+max: 34.025150000000082, 1.7660750000000149, 24.943349999999995
+INFO(indexer.cpp:1699): finished indexing chunk r425
+INFO(indexer.cpp:1699): finished indexing chunk r424
+INFO(indexer.cpp:1656): start indexing chunk r426
+filesize: 268'815'570
+min: 20.591325000000083, 1.7660750000000149, -1.9243000000000023
+max: 34.025150000000082, 15.199900000000014, 11.509524999999996
+INFO(indexer.cpp:1656): start indexing chunk r44
+filesize: 839'550
+min: 34.025150000000082, -38.535399999999981, -1.9243000000000023
+max: 60.892800000000079, -11.667749999999984, 24.943349999999995
+INFO(indexer.cpp:1699): finished indexing chunk r44
+INFO(indexer.cpp:1656): start indexing chunk r46
+filesize: 35'462'820
+min: 34.025150000000082, -11.667749999999984, -1.9243000000000023
+max: 60.892800000000079, 15.199900000000014, 24.943349999999995
+INFO(indexer.cpp:1699): finished indexing chunk r2444
+INFO(indexer.cpp:1656): start indexing chunk r6000
+filesize: 217'117'200
+min: 7.1575000000000841, 15.199900000000014, -1.9243000000000023
+max: 13.874412500000084, 21.916812500000013, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r4206
+INFO(indexer.cpp:1656): start indexing chunk r6001
+filesize: 892'560
+min: 7.1575000000000841, 15.199900000000014, 4.7926124999999971
+max: 13.874412500000084, 21.916812500000013, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r6001
+INFO(indexer.cpp:1656): start indexing chunk r6002
+filesize: 178'496'970
+min: 7.1575000000000841, 21.916812500000013, -1.9243000000000023
+max: 13.874412500000084, 28.633725000000013, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r2406
+INFO(indexer.cpp:1656): start indexing chunk r6003
+filesize: 555'120
+min: 7.1575000000000841, 21.916812500000013, 4.7926124999999971
+max: 13.874412500000084, 28.633725000000013, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r6003
+INFO(indexer.cpp:1656): start indexing chunk r6004
+filesize: 262'012'830
+min: 13.874412500000084, 15.199900000000014, -1.9243000000000023
+max: 20.591325000000083, 21.916812500000013, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r246
+INFO(indexer.cpp:1656): start indexing chunk r6005
+filesize: 1'116'270
+min: 13.874412500000084, 15.199900000000014, 4.7926124999999971
+max: 20.591325000000083, 21.916812500000013, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r6005
+INFO(indexer.cpp:1656): start indexing chunk r6006
+filesize: 153'167'940
+min: 13.874412500000084, 21.916812500000013, -1.9243000000000023
+max: 20.591325000000083, 28.633725000000013, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r46
+INFO(indexer.cpp:1656): start indexing chunk r6007
+filesize: 276'930
+min: 13.874412500000084, 21.916812500000013, 4.7926124999999971
+max: 20.591325000000083, 28.633725000000013, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r6007
+INFO(indexer.cpp:1656): start indexing chunk r602
+filesize: 5'494'050
+min: 7.1575000000000841, 28.633725000000013, -1.9243000000000023
+max: 20.591325000000083, 42.067550000000011, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r602
+INFO(indexer.cpp:1656): start indexing chunk r6040
+filesize: 108'501'690
+min: 20.591325000000083, 15.199900000000014, -1.9243000000000023
+max: 27.308237500000082, 21.916812500000013, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r2446
+INFO(indexer.cpp:1656): start indexing chunk r6041
+filesize: 8'549'910
+min: 20.591325000000083, 15.199900000000014, 4.7926124999999971
+max: 27.308237500000082, 21.916812500000013, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r2442
+INFO(indexer.cpp:1656): start indexing chunk r6042
+filesize: 121'125'750
+min: 20.591325000000083, 21.916812500000013, -1.9243000000000023
+max: 27.308237500000082, 28.633725000000013, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r4226
+INFO(indexer.cpp:1656): start indexing chunk r6043
+filesize: 6'100'500
+min: 20.591325000000083, 21.916812500000013, 4.7926124999999971
+max: 27.308237500000082, 28.633725000000013, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r6041
+INFO(indexer.cpp:1656): start indexing chunk r6044
+filesize: 36'151'650
+min: 27.308237500000082, 15.199900000000014, -1.9243000000000023
+max: 34.025150000000082, 21.916812500000013, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r6043
+INFO(indexer.cpp:1656): start indexing chunk r6045
+filesize: 2'595'060
+min: 27.308237500000082, 15.199900000000014, 4.7926124999999971
+max: 34.025150000000082, 21.916812500000013, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r6045
+INFO(indexer.cpp:1656): start indexing chunk r6046
+filesize: 36'780
+min: 27.308237500000082, 21.916812500000013, -1.9243000000000023
+max: 34.025150000000082, 28.633725000000013, 4.7926124999999971
+INFO(indexer.cpp:1699): finished indexing chunk r6046
+INFO(indexer.cpp:1656): start indexing chunk r6047
+filesize: 694'680
+min: 27.308237500000082, 21.916812500000013, 4.7926124999999971
+max: 34.025150000000082, 28.633725000000013, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r6047
+INFO(indexer.cpp:1656): start indexing chunk r606
+filesize: 2'118'000
+min: 20.591325000000083, 28.633725000000013, -1.9243000000000023
+max: 34.025150000000082, 42.067550000000011, 11.509524999999996
+INFO(indexer.cpp:1699): finished indexing chunk r4224
+INFO(indexer.cpp:1656): start indexing chunk r62
+filesize: 1'902'810
+min: 7.1575000000000841, 42.067550000000011, -1.9243000000000023
+max: 34.025150000000082, 68.935200000000009, 24.943349999999995
+INFO(indexer.cpp:1699): finished indexing chunk r606
+INFO(indexer.cpp:1656): start indexing chunk r64
+filesize: 7'728'600
+min: 34.025150000000082, 15.199900000000014, -1.9243000000000023
+max: 60.892800000000079, 42.067550000000011, 24.943349999999995
+INFO(indexer.cpp:1699): finished indexing chunk r62
+INFO(indexer.cpp:1699): finished indexing chunk r64
+INFO(indexer.cpp:1699): finished indexing chunk r4222
+INFO(indexer.cpp:1699): finished indexing chunk r4220
+INFO(indexer.cpp:1699): finished indexing chunk r6044
+INFO(indexer.cpp:1699): finished indexing chunk r6040
+INFO(indexer.cpp:1699): finished indexing chunk r6042
+INFO(indexer.cpp:1699): finished indexing chunk r6006
+INFO(indexer.cpp:1699): finished indexing chunk r426
+INFO(indexer.cpp:1699): finished indexing chunk r6002
+INFO(indexer.cpp:1699): finished indexing chunk r6000
+INFO(indexer.cpp:1699): finished indexing chunk r6004
